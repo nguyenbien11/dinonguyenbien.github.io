@@ -29,7 +29,7 @@ setInterval(() => {
     }
 
     if (rockLeft < 50 && rockLeft >0 && dinoTop > 150) {
-        alert("Thua goy Hòa yêu Hưng óc chó hahahaha!!!" +' ' +score.innerText +' '+ 
+        alert("Thua goy Hòa óc chó yêu Hưng óc chó hahahaha!!!" +' ' +score.innerText +' '+ 
         "\n\nChơi lại nào");
         location.reload();
     }
